@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: "Epilogue", sans-serif;
+}
+
+button {
+  font-family: "Epilogue", sans-serif;
+}
